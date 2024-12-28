@@ -1,5 +1,6 @@
-# AI_Notebooks_30L
+# AI_Notebooks_30
 Main repository for AI-related projects and notebooks.
+Find four Python notebooks graded 30 during our master degree AI4ST.
 
 ## Table of Contents
 1. [Introduction](#introduction)
