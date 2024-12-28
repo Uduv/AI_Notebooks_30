@@ -1,0 +1,33 @@
+# Ignore .DS_Store files (macOS specific)
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Ignore environment files
+.env/
+*.env
+
+# Ignore virtual environment directories
+venv/
+env/
+*.egg-info/
+
+# Ignore log files
+*.log
+
+# Ignore the .git directory inside submodules (already tracked by main repo)
+**/.git/
+
+# Ignore other operating system-specific files
+Thumbs.db
