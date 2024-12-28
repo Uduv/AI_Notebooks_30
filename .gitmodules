@@ -1,0 +1,12 @@
+[submodule "1_Recommender_System_from_scratch"]
+	path = 1_Recommender_System_from_scratch
+	url = https://github.com/uduv/Recommender_System.git
+[submodule "2_Explainable_AI"]
+	path = 2_Explainable_AI
+	url = https://github.com/uduv/Explainable_AI.git
+[submodule "3_RL_for_recommender_System"]
+	path = 3_RL_for_recommender_System
+	url = https://github.com/uduv/RL_for_Recommender_System.git
+[submodule "4_The_Attention_Mechanism"]
+	path = 4_The_Attention_Mechanism
+	url = https://github.com/uduv/The_Attention_Mechanism.git
